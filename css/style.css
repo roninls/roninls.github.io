@@ -309,7 +309,6 @@ h6 {
         color: #0fa8bd;
     }
 
-
 .page-title {
     margin-bottom: 60px;
     font-weight: 800;
@@ -406,6 +405,7 @@ p.leader {
             color: #0fa8bd;
         }
 
+        
 /* listing */
 ul.list-inside {
     padding-left: 0px;
@@ -2090,7 +2090,7 @@ form label.error {
 /*Icon Style 1*/
 
 .content-box:hover .icon-top, .content-box:hover .icon-left, .content-box:hover .icon-right {
-    background-color: #0fa8bd
+    background-color: #0fa8bd;
     color: #fff;
 }
 
@@ -2127,7 +2127,7 @@ form label.error {
 }
 
 .icon-color {
-    background-color: #0fa8bd
+    background-color: #0fa8bd;
     color: #fff;
 }
 
@@ -2142,7 +2142,7 @@ form label.error {
 }
 
 .content-box:hover .icon-black {
-    background-color: #0fa8bd
+    background-color: #0fa8bd;
     color: #fff;
 }
 
@@ -3180,7 +3180,7 @@ ul.portfolio-btn-wraper, .portfolio-btn-wraper {
             border-color: #0fa8bd;
             color: #0fa8bd;
         }
-'+
+
 
 .color-bar{
     color: #000!important;
