@@ -361,6 +361,12 @@ h6 {
     margin-right: auto;
 }
 
+.max-width-800 {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 /*Paragraph*/
 p {
     font-family: 'Open Sans', sans-serif;
